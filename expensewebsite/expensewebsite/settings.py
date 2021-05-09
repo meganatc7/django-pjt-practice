@@ -153,4 +153,4 @@ EMAIL_HOST_USER = 'meganatc7@gmail.com'
 EMAIL_USE_TLS = True
 DEFAULT_FROM_EMAIL = 'meganatc7@gmail.com'
 EMAIL_PORT = 587
-EMAIL_HOST_PASSWORD = 'costanza77!'
+EMAIL_HOST_PASSWORD = '#'
